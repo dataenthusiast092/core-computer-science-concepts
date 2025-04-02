@@ -1,4 +1,4 @@
-# Core Computer Science Concepts:
+# Core Computer Science Concepts
 This repository is my revision work from experience all over the years, practiced in a week for technical tests at various.
 - If the files don't render, could be because of the images clicked to consolidate concepts from all over the place.
 - Trust me this work can help anyone stuck in the journey of DSA revision.
