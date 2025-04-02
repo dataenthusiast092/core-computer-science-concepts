@@ -13,7 +13,7 @@ All the best! Wish me luck too .. 😊
 4. **t4** - Graphs.
 5. **t5** - Trees, Memory Management and B-Trees.
 6. **t6** - Algorithm Design & Analysis.
-7. **t7** - Programming Basics and Vector Type, Object Oriented Design.
+7. **t7** - Programming Basics and vector-type, Object Oriented Design.
 8. **t8** - Sorting & Searching.
 9. **t9** - Advanced Data Structures.
 10. **t10** - Aptitude & Maths.
